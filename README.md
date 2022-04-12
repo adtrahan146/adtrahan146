@@ -1,17 +1,19 @@
 <h1 align="center">Hello! I'm Alex </h1>
 <h3 align="center">A passionate full time student and aspiring fullstack developer</h3>
 
-- 🔭 I’m currently working on EndGameMaps (link TBD)
+- 🔭 I’m currently working on :earth_americas: EndGameMaps :earth_americas: (Release: TBA)
+
+- :fleur_de_lis: I just released: :newspaper: https://adtrahan146.github.io/the-peoples-insight/ :newspaper:
 
 - 🌱 I’m currently learning **JavaScript, Angular, React, NoSQL, Node, Programming Language Structure, & Computer Networking**
 
 - 👨‍💻 All of my projects are available at [https://adtrahan146.github.io/portfolio/](https://adtrahan146.github.io/portfolio/)
 
-- 💬 Ask me about **Java, History, Data Structures**
+- 💬 Ask me about **Java, JavaScript, Data Structures**
 
 - 📫 How to reach me **adtrahan@uno.edu**
 
-- ⚡ Fun fact: **I could maybe recount world history in a sitting if asked**
+- ⚡ Fun fact: **I could recount a good bit of history in a sitting if asked**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
