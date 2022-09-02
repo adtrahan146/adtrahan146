@@ -5,7 +5,7 @@
 
 - :fleur_de_lis: I just released: :newspaper: https://adtrahan146.github.io/the-peoples-insight/ :newspaper:
 
-- 🌱 I’m currently learning **JavaScript, Angular, React, NoSQL, Node, Programming Language Structure, & Computer Networking**
+- 🌱 I’m currently learning **JavaScript, Angular, React, React Native, NoSQL, Nodejs, Docker, and VMWare**
 
 - 👨‍💻 All of my projects are available at [https://adtrahan146.github.io/portfolio/](https://adtrahan146.github.io/portfolio/)
 
