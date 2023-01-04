@@ -1,7 +1,7 @@
-<h1 align="center">Hello! I'm Alex </h1>
-<h3 align="center">A passionate full time student and development intern.</h3>
+<h1 align="center">Hello! I'm Alex. </h1>
+<h3 align="center">A passionate full time student and research assistant.</h3>
 
-- 🔭 I’m currently working on :earth_americas: EndGameMaps :earth_americas: (Release: TBA)
+- 🔭 I’m currently working on 🔒 Private Research Project 🔒 
 
 - :fleur_de_lis: I just released: :newspaper: https://adtrahan146.github.io/the-peoples-insight/ :newspaper:
 
