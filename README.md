@@ -1,6 +1,8 @@
 <h1 align="center">Hello! I'm Alex. </h1>
 <h3 align="center">A passionate full time student and research assistant.</h3>
 
+> This past year I've worked on React Native apps as well as backends related to them. Currently in process of getting them uploaded to a demoable state on this platform ASAP. <br><br>(-Alex, 01/11/2023)
+
 - 🔭 I’m currently working on 🔒 Private Research Project 🔒 
 
 - :fleur_de_lis: I just released: :newspaper: https://adtrahan146.github.io/the-peoples-insight/ :newspaper:
